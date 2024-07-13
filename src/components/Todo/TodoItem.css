@@ -1,0 +1,32 @@
+#item-text {
+	width: 100%;
+	height: 100px;
+}
+
+.line-through-description {
+	text-decoration: line-through;
+}
+
+.job-item {
+	margin: 1rem 0;
+	padding: 1rem;
+	background-color: #ffffff;
+	border-radius: 12px;
+}
+
+.job-item h3 {
+	color: #3a3a3a;
+	font-size: 1.25rem;
+	margin: 0 0 10px 0;
+}
+
+.job-item__description {
+	font-size: 1rem;
+	margin-bottom: 20px;
+}
+
+button{
+	padding: 5px 10px;
+	margin-right: 5px;
+	
+}
